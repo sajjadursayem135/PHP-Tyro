@@ -1,0 +1,8 @@
+<?php
+$a = 32;
+echo "a is " . is_int($a) . "\n";
+
+$b = 32.5;
+echo "b is " . is_int($b) . "\n";
+
+?>
